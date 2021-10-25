@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Nested Nav
+title: Machine Learning Lab
 nav_order: 2
 has_children: true
 ---
-Top Nav Page
+Machine Learning Laboratory
